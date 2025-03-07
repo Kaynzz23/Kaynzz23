@@ -8,8 +8,8 @@ Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino 
 ## 🚀 Sobre Mim  
 - 💻 Aspirante a **Desenvolvedor Full Stack**  
 - 🎯 Especial interesse em **back-end, APIs e integrações de sistemas**  
-- 📚 Estudando **JavaScript e tecnologias para o desenvolvimento backend**  
-- 🔥 Aprimorando habilidades em **arquitetura de software e escalabilidade**  
+- 📚 Estudando **Typescript e tecnologias para o desenvolvimento backend**  
+- 🔥 Aprimorando habilidades em **Node.js**  
 - 🤝 Sempre aberto a colaborações, aprendizado e novos desafios!  
 
 ---  
