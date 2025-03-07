@@ -1,7 +1,10 @@
-# 🚀 Kayo | Desenvolvedor em Formação  
+<h1 align="center"> 🚀 Kayo | Desenvolvedor em Formação </h1>  
 
-### Bem-vindo ao meu perfil!  
-Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação. Minha jornada está focada no desenvolvimento backend e na criação de soluções escaláveis e eficientes.  
+<p align="center">
+  💻 Estudante de Programação | 👨‍💻 Back-End Developer
+</p>
+
+Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação. Minha jornada está focada no desenvolvimento backend mas pretendo me formar como um **Engenheiro de Software Full Stack**
   
 
 ## 🚀 Sobre Mim  
@@ -27,7 +30,7 @@ Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino 
 - 📸 [Instagram](https://instagram.com/kaynzz.66)  
 - 💼 [LinkedIn](www.linkedin.com/in/kayo-dev)   
   
-![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kaynzz23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=151515))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynzz23&layout=compact&theme=dark) 
+![{usuario} Gittub stats](https://github-readme-stats.vercel.app/api/?username=Kaynzz23\&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynzz23&layout=compact&show_icons=true\&title_color=fff\&icon_color=fff\&text_color=9f9f9f\&bg_color=00000000) 
 
 📌 *Aprendendo, evoluindo e construindo o futuro com código! 🚀*  
