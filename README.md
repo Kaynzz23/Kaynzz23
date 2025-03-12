@@ -1,10 +1,10 @@
-<h1 align="center"> 🚀 Kayo | Desenvolvedor em Formação </h1>  
+<h1 align="center"> 🚀 Kazu | Desenvolvedor node.js </h1>  
 
 <p align="center">
   💻 Estudante de Programação | 👨‍💻 Back-End Developer
 </p>
 
-Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação. Minha jornada está focada no desenvolvimento backend mas pretendo me formar como um **Engenheiro de Software Full Stack**
+Me chamo Kayo, sou um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino médio e me aprofundando no universo da programação. Minha jornada está focada no desenvolvimento back-end mas pretendo me formar como um **Engenheiro de Software Full Stack**
   
 
 ## 🚀 Sobre Mim  
@@ -16,12 +16,12 @@ Sou Kayo, um entusiasta da tecnologia com 16 anos, cursando o 3º ano do ensino 
   
 
 ##  👨‍💻 Linguagens:
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
 
-## Frameworks:
+## ⚙️ Frameworks:
 [![My Frameworks](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
-## Ferramentas:
+## 🔧 Ferramentas:
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev)
  
 
